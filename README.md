@@ -7,3 +7,7 @@
 ## Activity 3
 
 ![alt text](/activity-3.png)
+
+## Activity 4
+
+![alt text](/activity-4.png)
