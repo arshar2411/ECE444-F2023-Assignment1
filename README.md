@@ -4,6 +4,10 @@
 ## Activity 1
 ![alt text](/activity-1.png)
 
+## Activity 2
+
+![alt text](/activity-2.png)
+
 ## Activity 3
 
 ![alt text](/activity-3.png)
